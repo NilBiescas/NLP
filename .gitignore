@@ -1,5 +1,4 @@
 exxercises_day3/random_forest_model.joblib
 exercises_day5/SA_dataset.csv
-exercises_day6/best_model.pth
-exercises_day6/best_model_14.pth
-exercises_day6/best_model_15.pth
+exercises_day6/*.pth
+
